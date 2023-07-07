@@ -5,9 +5,11 @@ Görseller için => https://github.com/mutluf/Survey-API/blob/master/README.md
 <br/>
 
 React
+<br/>
 Material UI => https://mui.com/
 <br/>
 Axios 
+<br/>
 Recharts => https://recharts.org/en-US/
 <br/>
 # Getting Started with Create React App
