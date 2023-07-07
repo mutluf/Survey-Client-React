@@ -1,6 +1,6 @@
 Görseller için => https://github.com/mutluf/Survey-API/blob/master/README.md
 
-
+![surveys.png](https://github.com/mutluf/Survey-API/blob/master/surveys.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
