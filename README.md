@@ -1,13 +1,14 @@
 Görseller için => https://github.com/mutluf/Survey-API/blob/master/README.md
-
+<br/>
 ![surveys.png](https://github.com/mutluf/Survey-API/blob/master/surveys.png)
-
+<br/>
 
 React
 Material UI => https://mui.com/
+<br/>
 Axios 
 Recharts => https://recharts.org/en-US/
-
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
