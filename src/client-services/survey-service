@@ -1,0 +1,31 @@
+import http from "../client-services/http-common";
+
+class SurveyServices {
+
+
+    getSurveys() {
+
+        return http.get("/Surveys", {
+            headers: {
+                // "Content-type": "application/json",
+            }
+
+        });
+    }
+
+    getSurveyById(id) {
+        return http.get(`/Surveys/${id}`,
+            {
+
+            });
+    }
+
+
+    postSurvey(data) {
+        return http.post("/Surveys", data, {
+
+        });
+    }
+}
+
+export default new SurveyServices();
